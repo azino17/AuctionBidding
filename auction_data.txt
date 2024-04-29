@@ -1,0 +1,14 @@
+==================================BIDDING HUB: AVL-BASED AUCTION ITEM MANAGEMENT========================================
+Serial Number: 1
+Item Id: 101
+Item Name: Laptop
+Base Price: 40000
+
+Item Id: 101
+Current Price: 40000
+Updated Price: 45000
+
+Item Id: 101
+Current Price: 45000
+Updated Price: 50000
+
